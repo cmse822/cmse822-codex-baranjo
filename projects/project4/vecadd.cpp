@@ -5,7 +5,7 @@
 #include <cmath>
 #include <cstdlib>
 
-constexpr int N = 100000;
+// constexpr int N = 100000;
 constexpr double TOL = 1e-4;
 
 int main(int argc, char* argv[]) {
